@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# network statistics (-l listening sockets) (-p PID and asociated network)
+netstat -lp
